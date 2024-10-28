@@ -9,9 +9,9 @@ Both test scripts and test examples are developed by MedCom. For more informatio
 > Include relevant links. E.g:
 
 The following pages might be of interest when implementing HospitalNotification:
-* [GitHub-pages for HospitalNotification](https://medcomdk.github.io/dk-medcom-hospitalnotification)
-  * [Testprotocol for sending and receiving HospitalNotification](https://medcomdk.github.io/dk-medcom-hospitalnotification/#2-test-and-certification)
-* [Implementation Guide for HospitalNotification v. 3.0.0](https://medcomfhir.dk/ig/hospitalnotification/3.0.0)
+* [GitHub-pages for [STANDARDNAME]](https://medcomdk.github.io/dk-medcom-hospitalnotification)
+  * [Testprotocol for sending and receiving [STANDARDNAME]](https://medcomdk.github.io/dk-medcom-hospitalnotification/#2-test-and-certification)
+* [Implementation Guide for [STANDARDNAME] v. x.x](https://medcomfhir.dk/ig/hospitalnotification/3.0.0)
 * [Governance for MedCom FHIR messaging](https://medcomdk.github.io/MedComLandingPage/)
 
 ### Governance

@@ -42,8 +42,8 @@ parameters:
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 menu:
   IG Home: index.html
-  Test scripts: testscripts.html
-  Test examples: testexamples.html # if relevant
+  Test scripts used in TouchStone: testscripts.html
+  Test examples for test protocol: testexamples.html # if relevant
   Artifacts Summary: artifacts.html
   Download: downloads.html
 

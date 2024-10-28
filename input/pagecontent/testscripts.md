@@ -68,7 +68,7 @@ When sending a HospitalNotification, a POST operation is required for all types 
 
 [^1]: In this flow it is allowed to add a SLOR-message between STOR and SLHJ. In case the system does so, please skip this test script.
 
-
+<!-- 
 ### Receive HospitalNotification message
 When receiving a HospitalNotification, a GET operation is required for all types of messages, valid for both the precondition messages and actual messages being tested. 
 
@@ -138,3 +138,4 @@ Which results in the following variable to be used in the GET operation. For ins
 | [PF-receive-imp-02](./TestScript-hospitalnotification-PF-receive-imp-02.html) | Receive: Patient is admitted, patient is registered as being on leave, patient doesn't return from leave, patient is discharged | STIN, STOR, SLHJ |
 | [PF-receive-imp-03](./TestScript-hospitalnotification-PF-receive-imp-03.html) | Receive: Patient is admitted, patient is registered as being on leave, patient returns from leave, patient is registered as dead | STIN, STOR, SLOR, MORS |
 
+ -->
